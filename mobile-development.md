@@ -1,6 +1,6 @@
 > THE ANDROID CODE CLUB
 
-> Curriculum for web development
+> Curriculum for mobile development
 
 #### How to use this curriculum
 
