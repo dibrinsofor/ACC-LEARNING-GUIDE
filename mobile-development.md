@@ -37,12 +37,12 @@ This is meant for **new software engineers** or those interested in learning mob
 <summary>Get started building native android apps</summary>
 
 - [ ] Pick a language (Preferably Kotlin)
-    - [Java]()
-    - [Kotlin]()
+    - [Java](https://www.youtube.com/watch?v=Yv_4RXyLjL8)
+    - [Kotlin](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 - [ ] Install Android Studio and learn the basics of Kotlin
 - [ ] Things to consider:
     - Basics of OOP
-    - [Data Structures and Algorithms]()
+    - [Data Structures and Algorithms](https://www.youtube.com/watch?v=oz9cEqFynHU&t=2s)
     - What is Gradle and how to use it
 
 
@@ -77,9 +77,6 @@ This is meant for **new software engineers** or those interested in learning mob
         - How android uses threads internally
         - How to write threaded code
         - Memory Concerns
-- [ ] Why should we use them
-- [ ] Learn to use Git
-- [ ] Get used to Github
 
 </details>
 
@@ -87,4 +84,4 @@ This is meant for **new software engineers** or those interested in learning mob
 ## Additional Resources
 
 - [Additional Books](#additional-books)
-- [Additional Learning](#additional-learning)
+- [Additional youtube Learning](https://www.youtube.com/channel/UCkCJ0zLrSg7VudR97g-FNVQ)
