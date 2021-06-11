@@ -15,7 +15,7 @@ To fork this repo, run this git command
 fork shit up!!!
 ```
 
-![Scene from the IT crowd that reads: This, Jen, is the internet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackster.io%2Fporrey%2Fthe-internet-7b589b&psig=AOvVaw2sOEszxMZMzlZJ0j88OAml&ust=1623099909137000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCUy8P0g_ECFQAAAAAdAAAAABAD)
+![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 This is meant for **new software engineers** or those interested in Machine Learning.
 
