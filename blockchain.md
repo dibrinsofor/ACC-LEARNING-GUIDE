@@ -22,24 +22,14 @@ This is meant for **new software engineers** or those interested in learning abo
 **as you complete each stage of this curriculum, mark it as done in your code editor and push that to your forked repo**
 
 <details>
-<summary>Understanding the Blockchain</summary>
+<summary>Everything you need</summary>
 
-- [ ] [MOTIVATION: An intro to mobile development](https://www.youtube.com/watch?v=DZ-rEgAWFkQ)
-    - [ ] [The Future of Mobile Development](https://www.youtube.com/watch?v=Nh0F_okJAkA)
-- [ ] [Web vs. Mobile development. Which should you learn?](https://www.youtube.com/watch?v=bKLx4SwuumM)
-- [ ] [Native Or Cross Platform Mobile Development](https://www.youtube.com/watch?v=ezSE_UQ5UZY)
-- [ ] Getting acquainted with possible IDEs
-    - [ ] [Android Studio](https://www.youtube.com/watch?v=L8QzFU0k5OA)
-
-</details>
-
-<details>
-
-<summary>Start off with building native android applications</summary>
-
-- [ ] Get used to your workspace
-- [ ] Start an Android Studio tutorial
-- [ ] Practice working on projects
+- [ ] [Introduction to Blockchains](https://github.com/dibrinsofor/mlsa-events/tree/main/first-event)
+** ignore the azure videos in the YouTube playlists
+- [ ] [Learn a programming language](https://docs.microsoft.com/en-gb/learn/paths/python-language/)
+- [ ] [Microsoft Learn - Building Blockchains](https://docs.microsoft.com/en-gb/learn/paths/ethereum-blockchain-development/)
+- [ ] More theory and Practical work
+    - [ ] [Protofire's guide](https://github.com/protofire/blockchain-learning-path)
 
 </details>
 
